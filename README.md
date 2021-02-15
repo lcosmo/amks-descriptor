@@ -1,2 +1,2 @@
-# mms_shapes
-Mixing Matrix Signature (MMS) implementation
+# AMKS
+Average Mixing Kernel Signature (AMKS) implementation
